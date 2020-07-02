@@ -24,10 +24,10 @@ Following is a quick set up guide:
 
     The script would require the user to provide the link of the tweet and choose an appropriate category for it from action / help / other / praise / question / report.
 
-    [photo](https://i.imgur.com/YP0B3LH.png)
+    ![photo](https://i.imgur.com/YP0B3LH.png)
 
 + Upon input of this information, the classifier script yields the following output as result:
 
-    [photo](https://i.imgur.com/EasIWQL.png)
+    ![photo](https://i.imgur.com/EasIWQL.png)
 
     Along with the predicted class, it also yields the likelihood of the tweet across all classes.
