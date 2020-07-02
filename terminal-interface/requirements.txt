@@ -9,7 +9,7 @@ async-timeout==3.0.1
 attrs==19.1.0
 backcall==0.1.0
 beautifulsoup4==4.8.2
-bleach==3.1.0
+bleach==3.1.4
 cachetools==4.0.0
 cchardet==2.1.6
 certifi==2019.6.16
