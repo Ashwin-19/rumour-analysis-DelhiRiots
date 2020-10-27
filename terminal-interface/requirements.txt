@@ -17,7 +17,7 @@ chardet==3.0.4
 chart-studio==1.0.0
 Click==7.0
 colorama==0.4.1
-cryptography==2.7
+cryptography==3.2
 cx-Freeze==5.1.1
 cycler==0.10.0
 decorator==4.4.0
